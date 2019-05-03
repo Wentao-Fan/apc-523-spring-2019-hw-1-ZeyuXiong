@@ -1,0 +1,2 @@
+(iv.) of part (d) converges to the wrong value.
+In part (e), you could have just divided 1 by exp(5.5), which would actually give you a smaller relative error.
