@@ -1,0 +1,1 @@
+In (ii) of part (a), you made a mistake in the expansion of exp( n*ln(x)( 1 + 2\epsilon ) ), and therefore the conclusion is wrong.
